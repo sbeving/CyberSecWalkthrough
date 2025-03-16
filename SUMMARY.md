@@ -52,15 +52,15 @@
         * [TIRARA](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/tirara.md)
         * [Blobs Blobs](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/blobs-blobs.md)
 
-## 🛠️ Tools & Payloads
+## 🥸 Guide
 
-* [🧰 Explore](tools-and-payloads/explore.md)
-* [Bash for \x00's](tools-and-payloads/bash-for-x00s.md)
-* [Burpy -\_-](tools-and-payloads/burpy-_.md)
-* [Py for CTFs](tools-and-payloads/py-for-ctfs.md)
-* [SQLNAP CookBook](tools-and-payloads/sqlnap-cookbook.md)
-* [Volatile](tools-and-payloads/volatile.md)
-* [🦈 Wire The Shark](tools-and-payloads/wire-the-shark.md)
+* [🧰 Explore](guide/explore.md)
+* [Bash for \x00's](guide/bash-for-x00s.md)
+* [Burpy -\_-](guide/burpy-_.md)
+* [Py for CTFs](guide/py-for-ctfs.md)
+* [SQLNAP CookBook](guide/sqlnap-cookbook.md)
+* [Volatile](guide/volatile.md)
+* [🦈 Wire The Shark](guide/wire-the-shark.md)
 
 ## 💡 HELPFUL
 

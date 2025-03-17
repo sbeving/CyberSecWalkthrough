@@ -5,11 +5,12 @@
 ## 💼 CTFs WRITEUPS
 
 * [0xWriteups](ctfs-writeups/0xwriteups/README.md)
-  * [2021](ctfs-writeups/0xwriteups/2021.md)
+  * [2021](ctfs-writeups/0xwriteups/2021/README.md)
+    * [Spark CTF - Dec](ctfs-writeups/0xwriteups/2021/spark-ctf-dec.md)
   * [2022](ctfs-writeups/0xwriteups/2022/README.md)
     * [Securinets Friendly 2022](ctfs-writeups/0xwriteups/2022/securinets-friendly-2022.md)
   * [2023](ctfs-writeups/0xwriteups/2023/README.md)
-    * [SparkCTF - Iset'Com](ctfs-writeups/0xwriteups/2023/sparkctf-isetcom/README.md)
+    * [🎇 SparkCTF - Iset'Com](ctfs-writeups/0xwriteups/2023/sparkctf-isetcom/README.md)
       * [🔐 Starter](ctfs-writeups/0xwriteups/2023/sparkctf-isetcom/starter.md)
       * [🕸️ Web](ctfs-writeups/0xwriteups/2023/sparkctf-isetcom/web.md)
       * [🕷️ Networking](ctfs-writeups/0xwriteups/2023/sparkctf-isetcom/networking.md)

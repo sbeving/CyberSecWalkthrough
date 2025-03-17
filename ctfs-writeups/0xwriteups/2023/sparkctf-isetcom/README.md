@@ -1,2 +1,2 @@
-# SparkCTF - Iset'Com
+# 🎇 SparkCTF - Iset'Com
 

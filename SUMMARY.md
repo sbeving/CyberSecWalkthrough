@@ -51,6 +51,8 @@
         * [POEM](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/poem.md)
         * [TIRARA](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/tirara.md)
         * [Blobs Blobs](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/blobs-blobs.md)
+    * [🇦🇪 CTF.ae](ctfs-writeups/0xwriteups/2025/ctf.ae/README.md)
+      * [Fawazeer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer.md)
 
 ## 🥸 Guide
 

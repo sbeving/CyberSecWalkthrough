@@ -350,6 +350,55 @@ except Exception as e:
     print(f"Error loading or working with the model: {e}")
 ```
 
+### Output
+
+Final output ± 1
+
+```powershell
+Model downloaded.
+Model files extracted.
+Model loaded successfully!
+Model summary:
+Model: "sequential"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ conv2d (Conv2D)                      │ (None, 26, 26, 16)          │             160 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ max_pooling2d (MaxPooling2D)         │ (None, 13, 13, 16)          │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ flatten (Flatten)                    │ (None, 2704)                │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 32)                  │          86,560 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense_1 (Dense)                      │ (None, 1)                   │              33 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 260,261 (1016.65 KB)
+ Trainable params: 86,753 (338.88 KB)
+ Non-trainable params: 0 (0.00 B)
+ Optimizer params: 173,508 (677.77 KB)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 248ms/step
+Model output with random input: [[-38.324917]]
+
+Generating adversarial example to produce output = 42...
+Iteration: 100, Output: 42.002811431884766, Difference: 0.002811431884765625
+  New best result! Difference: 0.002811431884765625
+Iteration: 200, Output: 42.0, Difference: 0.0
+  New best result! Difference: 0.0
+Iteration: 300, Output: 42.0, Difference: 0.0
+Iteration: 400, Output: 41.99998474121094, Difference: 1.52587890625e-05
+Iteration: 500, Output: 41.99998474121094, Difference: 1.52587890625e-05
+Iteration: 600, Output: 41.9999885559082, Difference: 1.1444091796875e-05
+Iteration: 700, Output: 41.999996185302734, Difference: 3.814697265625e-06
+Iteration: 800, Output: 42.000144958496094, Difference: 0.00014495849609375
+Iteration: 900, Output: 41.99995040893555, Difference: 4.9591064453125e-05
+Iteration: 1000, Output: 43.33109664916992, Difference: 1.3310966491699219
+
+Final output: 43.33109664916992, Target: 42.0, Difference: 1.3310966491699219
+Saved adversarial example to 'adversarial_42.png'
+
+```
+
 <figure><img src="../../../../.gitbook/assets/adversarial_42.png" alt=""><figcaption><p>ADVERSERIAL IMAGE</p></figcaption></figure>
 
 Boom

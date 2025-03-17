@@ -53,7 +53,14 @@
         * [TIRARA](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/tirara.md)
         * [Blobs Blobs](ctfs-writeups/0xwriteups/2025/ctfkareem-sectekup/misc/blobs-blobs.md)
     * [🇦🇪 CTF.ae](ctfs-writeups/0xwriteups/2025/ctf.ae/README.md)
-      * [Fawazeer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer.md)
+      * [Fawazeer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/README.md)
+        * [AI](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/ai/README.md)
+          * [NeuralNetworkNexus](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/ai/neuralnetworknexus.md)
+        * [Crypto](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/crypto/README.md)
+          * [Deeply Suspicious](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/crypto/deeply-suspicious.md)
+        * [WEB](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/README.md)
+          * [LaTeX Renderer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/latex-renderer.md)
+          * [Crashing The Port](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/crashing-the-port.md)
 
 ## 🥸 Guide
 

@@ -61,6 +61,7 @@
         * [WEB](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/README.md)
           * [LaTeX Renderer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/latex-renderer.md)
           * [Crashing The Port](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/crashing-the-port.md)
+        * [Pwn](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/pwn.md)
 
 ## 🥸 Guide
 

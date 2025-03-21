@@ -8,7 +8,7 @@
 
 * **Name:** eFormats
 * **Category:** Pwn
-* **Points:** (Assuming 490 based on prior context, adjust as needed)
+* **Points:** 490
 * **Server:** `d6fe6868a7d27e018e28b32b60ef6ab4.chal.ctf.ae:443` (SSL)
 * **Files Provided:** `main` (binary), `libc.so.6`
 * **Description:** "A developer was hired to implement an authentication protocol for an internal eGov service, you're assigned to review this service."

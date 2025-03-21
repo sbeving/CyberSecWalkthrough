@@ -62,6 +62,11 @@
           * [LaTeX Renderer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/latex-renderer.md)
           * [Crashing The Port](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/crashing-the-port.md)
         * [Pwn](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/pwn.md)
+  * [picoCTF](ctfs-writeups/0xwriteups/picoctf/README.md)
+    * [PWN](ctfs-writeups/0xwriteups/picoctf/pwn/README.md)
+      * [PIE](ctfs-writeups/0xwriteups/picoctf/pwn/pie.md)
+      * [HEAP 0](ctfs-writeups/0xwriteups/picoctf/pwn/heap-0.md)
+      * [format string 0](ctfs-writeups/0xwriteups/picoctf/pwn/format-string-0.md)
 
 ## 🥸 Guide
 

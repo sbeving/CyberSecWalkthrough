@@ -124,11 +124,11 @@ Crafting the payload&#x20;
 <pre class="language-latex"><code class="lang-latex"><strong>\pdffiledump offset 0 length 1000 {/app/flag.txt}
 </strong></code></pre>
 
-<figure><img src="../../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now we got a part of the flag we need the missing piece
 
-<figure><img src="../../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Part II payload , added offset
 

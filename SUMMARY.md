@@ -62,6 +62,7 @@
           * [LaTeX Renderer](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/latex-renderer.md)
           * [Crashing The Port](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/web/crashing-the-port.md)
         * [Pwn](ctfs-writeups/0xwriteups/2025/ctf.ae/fawazeer/pwn.md)
+    * [Cyber Apocalypse](ctfs-writeups/0xwriteups/2025/cyber-apocalypse.md)
   * [picoCTF](ctfs-writeups/0xwriteups/picoctf/README.md)
     * [PWN](ctfs-writeups/0xwriteups/picoctf/pwn/README.md)
       * [PIE](ctfs-writeups/0xwriteups/picoctf/pwn/pie.md)

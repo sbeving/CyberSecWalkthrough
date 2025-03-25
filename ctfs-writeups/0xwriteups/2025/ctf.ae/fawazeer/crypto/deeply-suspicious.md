@@ -27,7 +27,7 @@ print(f"Here is the encrypted data: {pow(flag,e,n)}")
 print(f"pubkey: {n}")
 ```
 
-<figure><img src="../../../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://953ce81a313813784c9adb934088225e.chal.ctf.ae/">https://953ce81a313813784c9adb934088225e.chal.ctf.ae/</a></p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://953ce81a313813784c9adb934088225e.chal.ctf.ae/">https://953ce81a313813784c9adb934088225e.chal.ctf.ae/</a></p></figcaption></figure>
 
 #### Given Data
 

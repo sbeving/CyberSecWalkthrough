@@ -99,6 +99,8 @@
       * [ML](ctfs-writeups/0xwriteups/2025/cyber-apocalypse/ml/README.md)
         * [Malakar's Deception](ctfs-writeups/0xwriteups/2025/cyber-apocalypse/ml/malakars-deception.md)
       * [AI](ctfs-writeups/0xwriteups/2025/cyber-apocalypse/ai.md)
+    * [Cyber Tek - TekUp](ctfs-writeups/0xwriteups/2025/cyber-tek-tekup/README.md)
+      * [Discovery](ctfs-writeups/0xwriteups/2025/cyber-tek-tekup/discovery.md)
 
 ## 🥸 Guide
 

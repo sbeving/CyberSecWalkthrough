@@ -122,4 +122,4 @@ __int64 __fastcall main(int a1, char **a2, char **a3)
 \
 
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

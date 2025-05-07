@@ -13,7 +13,7 @@ The "Crashing The Port" challenge involved exploiting a command injection vulner
 
 
 
-<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Reconnaissance
 
@@ -28,7 +28,7 @@ The form posted to `/upload` endpoint, and there was also a link to view all shi
 
 An account must've been created on `/register` and logged on using `/login` .
 
-<figure><img src="../../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Vulnerability Analysis
 

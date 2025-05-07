@@ -40,4 +40,4 @@ for m in hnp_solver(rs=R, ts=[-2*B for _ in range(len(R))], n=n, k_low_bound=0, 
 
 ## &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

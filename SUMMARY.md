@@ -133,3 +133,5 @@
 
 * [TryHackMe](boxes/tryhackme/README.md)
   * [dogcat](boxes/tryhackme/dogcat.md)
+* [HTB](boxes/htb/README.md)
+  * [Cap](boxes/htb/cap.md)

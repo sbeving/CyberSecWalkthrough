@@ -236,6 +236,12 @@
     * [Cyber Tek - TekUp](ctfs-writeups/0xwriteups/2025/cyber-tek-tekup/README.md)
       * [Discovery](ctfs-writeups/0xwriteups/2025/cyber-tek-tekup/discovery.md)
       * [CoinMachine](ctfs-writeups/0xwriteups/2025/cyber-tek-tekup/coinmachine.md)
+    * [SecurinetsENIT](ctfs-writeups/0xwriteups/2025/securinetsenit.md)
+    * [MiniCTF Spark Iset'Com](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/README.md)
+      * [Cryptography](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/README.md)
+        * [RSA\_0](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa_0.md)
+        * [Custom](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/custom.md)
+        * [Page](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/page.md)
 
 ## 💡 HELPFUL TOOLS
 

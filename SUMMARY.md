@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😎 Getting-Started](README.md)
+* [😎 Welcome to CySec Notes](README.md)
 * [Cheat Sheets & References](cheat-sheets-and-references/README.md)
   * [Active Directory / Enterprise Attack Flow](cheat-sheets-and-references/active-directory-enterprise-attack-flow.md)
   * [Common & Advanced Payloads](cheat-sheets-and-references/common-and-advanced-payloads.md)

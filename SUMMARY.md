@@ -238,10 +238,16 @@
       * [CoinMachine](ctfs-writeups/0xwriteups/2025/cyber-tek-tekup/coinmachine.md)
     * [SecurinetsENIT](ctfs-writeups/0xwriteups/2025/securinetsenit.md)
     * [MiniCTF Spark Iset'Com](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/README.md)
+      * [Binary Exploitation](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/binary-exploitation/README.md)
+        * [baby bof](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/binary-exploitation/baby-bof.md)
+        * [leak me](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/binary-exploitation/leak-me.md)
       * [Cryptography](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/README.md)
         * [RSA\_0](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa_0.md)
         * [Custom](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/custom.md)
-        * [Page](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/page.md)
+        * [AES](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/aes.md)
+        * [RSA\_1](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa_1.md)
+      * [Reverse Engineeering](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/README.md)
+        * [reverse\_py\_bruteforce](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/reverse_py_bruteforce.md)
 
 ## 💡 HELPFUL TOOLS
 

@@ -1,7 +1,3 @@
----
-description: These are all my notes about CySec !! Hope u enjoy it
----
-
 # 😎 Welcome to CySec Notes
 
 #### by **Saleh Eddine Touil** — _a.k.a. Sbeve_

@@ -6,6 +6,8 @@ description: These are all my notes about CySec !! Hope u enjoy it
 
 #### by **Saleh Eddine Touil** — _a.k.a. Sbeve_
 
+<figure><img src=".gitbook/assets/1024.jpg" alt=""><figcaption></figcaption></figure>
+
 > ⚡ _“Hack everything, learn something.”_\
 > This GitBook is my personal knowledge vault — a fusion of **CTF walkthroughs, Hack The Box machine writeups, offensive security notes, exploit development theory, and defensive insight.**\
 > It’s not just a notes repo — it’s a **battle log** from the frontlines of cybersecurity training.

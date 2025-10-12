@@ -66,23 +66,17 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
 8. **Shebang:** `#!/bin/bash` (tells the system which interpreter to use).
 9.  **Variables:**
 
-    Bash
-
     ```
     name="John"
     echo "Hello, $name!"
     ```
 10. **Command Substitution:**
 
-    Bash
-
     ```
     date=$(date)
     echo "The date is: $date"
     ```
 11. **Arithmetic Expansion:**
-
-    Bash
 
     ```
     x=10
@@ -91,8 +85,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     echo "The sum is: $z"
     ```
 12. **Conditional Statements:**
-
-    Bash
 
     ```
     if [ $x -gt $y ]; then
@@ -106,8 +98,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
 13. **Loops:**
     *   `for` loop:
 
-        Bash
-
         ```
         for i in {1..10}; do
             echo $i
@@ -119,8 +109,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
         ```
     *   `while` loop:
 
-        Bash
-
         ```
         i=0
         while [ $i -lt 10 ]; do
@@ -129,8 +117,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
         done
         ```
 14. **Functions:**
-
-    Bash
 
     ```
     greet() {
@@ -141,8 +127,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     ```
 15. **Input/Output Redirection:**
 
-    Bash
-
     ```
     cat input.txt  # Read from input.txt
     ls -l > output.txt  # Write to output.txt
@@ -150,8 +134,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     command1 | command2  # Pipe output of command1 to command2
     ```
 16. **Case Statements:**
-
-    Bash
 
     ```
     case $variable in
@@ -171,16 +153,12 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
 
 17. **Regular Expressions:**
 
-    Bash
-
     ```
     grep "pattern" file.txt
     awk '/pattern/ {print $1}' file.txt
     sed 's/old/new/g' file.txt
     ```
 18. **Working with URLs:**
-
-    Bash
 
     ```
     url="http://example.com/path?param1=value1&param2=value2"
@@ -189,16 +167,12 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     ```
 19. **Encoding/Decoding:**
 
-    Bash
-
     ```
     echo "data" | base64  # Base64 encode
     echo "ZGF0YQ==" | base64 -d  # Base64 decode
     echo "value with spaces" | urlencode  # URL encode (requires `urlencode` command)
     ```
 20. **Networking:**
-
-    Bash
 
     ```
     nc -nvlp 8080  # Listen on port 8080
@@ -216,8 +190,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     ```
 22. **File Processing:**
 
-    Bash
-
     ```
     while read line; do
         echo "Processing: $line"
@@ -225,14 +197,10 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     ```
 23. **Subshells:**
 
-    Bash
-
     ```
     ( cd /tmp; ls )  # Changes directory in a subshell
     ```
 24. **Signal Handling:**
-
-    Bash
 
     ```
     trap "echo 'Exiting...'" INT  # Handle Ctrl+C
@@ -242,8 +210,6 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
 
 25. **Brute-forcing a web directory:**
 
-    Bash
-
     ```
     for dir in $(cat directories.txt); do
         curl "http://example.com/$dir" 2>/dev/null | grep "200 OK"
@@ -251,23 +217,17 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     ```
 26. **Decoding a base64 encoded string:**
 
-    Bash
-
     ```
     echo "encoded_string" | base64 -d
     ```
 27. **Finding a specific string in a large file:**
-
-    Bash
 
     ```
     grep "flag" large_file.txt
     ```
 28. **Automating interactions with a program:**
 
-    Bash
-
-    ```
+    ```bash
     ./vulnerable_program << EOF
     input1
     input2
@@ -275,9 +235,7 @@ Bash scripting is an invaluable skill for CTF participants. Automating tasks, in
     ```
 29. **Port scanning with Nmap and processing the output:**
 
-    Bash
-
-    ```
+    ```bash
     nmap 192.168.1.1 -oG - | grep "open" | awk '{print $2}'
     ```
 

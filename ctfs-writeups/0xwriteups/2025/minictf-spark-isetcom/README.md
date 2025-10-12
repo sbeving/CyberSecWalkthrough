@@ -8,7 +8,7 @@ icon: sparkle
 
 ### About
 
-\[insert description here]
+
 
 ### Challenges
 
@@ -18,21 +18,21 @@ icon: sparkle
 
 #### [Cryptography](cryptography/)
 
-* [RSA\_0](cryptography/rsa_0.md)
-* Custom
-* AES
-* RSA\_1
+* [RSA\_0](cryptography/rsa-0.md)
+* [Custom](cryptography/custom.md)
+* [AES](cryptography/aes.md)
+* [RSA\_1](cryptography/rsa-1.md)
 * block blast
 * Baby Bruteforce
 * tsahwika
 
 #### Digital Forensics
 
-* ASCII
+* [ASCII](digital-forensics/ascii.md)
 * Operation MOVEit
-* Domain Drip _(easy)_
+* [Domain Drip _(easy)_](digital-forensics/domain-drip.md)
 * He can see you
-* Who? _(easy)_
+* [Who? _(easy)_](digital-forensics/who.md)
 * Wiper Wake-Up
 * Browser Betrayal _(intermediate)_
 * Is it really a backup 1
@@ -56,8 +56,8 @@ icon: sparkle
 #### Binary Exploitation
 
 * 1337\_overflow
-* baby\_bof
-* leak\_me
+* [baby\_bof](binary-exploitation/baby-bof.md)
+* [leak\_me](binary-exploitation/leak-me.md)
 * meow
 * partial
 * meow\_reborn

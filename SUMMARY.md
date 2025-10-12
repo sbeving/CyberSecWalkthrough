@@ -242,12 +242,16 @@
         * [baby bof](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/binary-exploitation/baby-bof.md)
         * [leak me](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/binary-exploitation/leak-me.md)
       * [Cryptography](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/README.md)
-        * [RSA\_0](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa_0.md)
+        * [RSA 0](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa-0.md)
         * [Custom](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/custom.md)
         * [AES](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/aes.md)
-        * [RSA\_1](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa_1.md)
+        * [RSA 1](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/cryptography/rsa-1.md)
+      * [Digital Forensics](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/digital-forensics/README.md)
+        * [ASCII](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/digital-forensics/ascii.md)
+        * [Domain Drip](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/digital-forensics/domain-drip.md)
+        * [Who?](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/digital-forensics/who.md)
       * [Reverse Engineeering](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/README.md)
-        * [reverse\_py\_bruteforce](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/reverse_py_bruteforce.md)
+        * [reverse py bruteforce](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/reverse-py-bruteforce.md)
 
 ## 💡 HELPFUL TOOLS
 

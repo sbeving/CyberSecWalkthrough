@@ -5,6 +5,11 @@
 
 ## 🥸 Guide
 
+* [🧰 Explore](guide/explore.md)
+* [Notes](guide/notes/README.md)
+  * [OSCP](guide/notes/oscp.md)
+  * [CPTS](guide/notes/cpts/README.md)
+    * [Guide](guide/notes/cpts/guide.md)
 * [Cheat Sheets & References](guide/cheat-sheets-and-references/README.md)
   * [Active Directory / Enterprise Attack Flow](guide/cheat-sheets-and-references/active-directory-enterprise-attack-flow.md)
   * [Common & Advanced Payloads](guide/cheat-sheets-and-references/common-and-advanced-payloads.md)
@@ -23,7 +28,6 @@
   * [Reverse Shells (All)](guide/cheat-sheets-and-references/reverse-shells-all.md)
   * [Web Exploitation & Bug Bounty Tactics](guide/cheat-sheets-and-references/web-exploitation-and-bug-bounty-tactics.md)
   * [Windows CMDs 4 Hackers](guide/cheat-sheets-and-references/windows-cmds-4-hackers.md)
-* [🧰 Explore](guide/explore.md)
 * [AI](guide/ai/README.md)
   * [Adversarial AI Evasion](guide/ai/adversarial-ai-evasion.md)
   * [CyberOps Integration](guide/ai/cyberops-integration.md)

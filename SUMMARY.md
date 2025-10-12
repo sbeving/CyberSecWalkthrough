@@ -7,6 +7,7 @@
   * [Exploit Template Snippets](cheat-sheets-and-references/exploit-template-snippets.md)
   * [File Transfer Cheat Sheet](cheat-sheets-and-references/file-transfer-cheat-sheet.md)
   * [HTB Machines Approach](cheat-sheets-and-references/htb-machines-approach.md)
+  * [Incident Response & Blue Team Correlation Matrix](cheat-sheets-and-references/incident-response-and-blue-team-correlation-matrix.md)
   * [Linux Commands 4 Hackers](cheat-sheets-and-references/linux-commands-4-hackers.md)
   * [MITRE ATT\&CK](cheat-sheets-and-references/mitre-att-and-ck/README.md)
     * [😰 Blue Team Countermeasure Playbook](cheat-sheets-and-references/mitre-att-and-ck/blue-team-countermeasure-playbook.md)
@@ -14,7 +15,9 @@
   * [Port & Service Reference](cheat-sheets-and-references/port-and-service-reference.md)
   * [Post-Exploitation & Looting Playbook](cheat-sheets-and-references/post-exploitation-and-looting-playbook.md)
   * [Privilege Escalation Matrix](cheat-sheets-and-references/privilege-escalation-matrix.md)
+  * [🔻 Red Team Evasion & OPSEC Playbook](cheat-sheets-and-references/red-team-evasion-and-opsec-playbook.md)
   * [Reverse Shells (All)](cheat-sheets-and-references/reverse-shells-all.md)
+  * [Web Exploitation & Bug Bounty Tactics](cheat-sheets-and-references/web-exploitation-and-bug-bounty-tactics.md)
   * [Windows CMDs 4 Hackers](cheat-sheets-and-references/windows-cmds-4-hackers.md)
 
 ## 🥸 Guide

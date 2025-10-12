@@ -1,3 +1,7 @@
+---
+icon: smoke
+---
+
 # Cloud Recon & Enum
 
 ## **Cloud Reconnaissance & Enumeration — Hunting in the Cloud**

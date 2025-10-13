@@ -11,6 +11,7 @@
   * [CPTS](guide/notes/cpts/README.md)
     * [Guide](guide/notes/cpts/guide.md)
   * [CBBH](guide/notes/cbbh.md)
+  * [CRTP](guide/notes/crtp.md)
 * [Cheat Sheets & References](guide/cheat-sheets-and-references/README.md)
   * [Active Directory / Enterprise Attack Flow](guide/cheat-sheets-and-references/active-directory-enterprise-attack-flow.md)
   * [Common & Advanced Payloads](guide/cheat-sheets-and-references/common-and-advanced-payloads.md)

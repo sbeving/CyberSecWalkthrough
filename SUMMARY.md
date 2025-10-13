@@ -6,7 +6,7 @@
 ## 🥸 Guide
 
 * [🧰 Explore](guide/explore.md)
-* [Notes](guide/notes/README.md)
+* [Certs Notes](guide/notes/README.md)
   * [OSCP](guide/notes/oscp.md)
   * [CPTS](guide/notes/cpts/README.md)
     * [Guide](guide/notes/cpts/guide.md)
@@ -33,6 +33,8 @@
   * [Reverse Shells (All)](guide/cheat-sheets-and-references/reverse-shells-all.md)
   * [Web Exploitation & Bug Bounty Tactics](guide/cheat-sheets-and-references/web-exploitation-and-bug-bounty-tactics.md)
   * [Windows CMDs 4 Hackers](guide/cheat-sheets-and-references/windows-cmds-4-hackers.md)
+  * [Bolt Wordlists](guide/cheat-sheets-and-references/bolt-wordlists/README.md)
+    * [Burp Intruder Fast Check](guide/cheat-sheets-and-references/bolt-wordlists/burp-intruder-fast-check.md)
 * [AI](guide/ai/README.md)
   * [Adversarial AI Evasion](guide/ai/adversarial-ai-evasion.md)
   * [CyberOps Integration](guide/ai/cyberops-integration.md)
@@ -153,6 +155,8 @@
       * [PIE](ctfs-writeups/0xwriteups/picoctf/pwn/pie.md)
       * [HEAP 0](ctfs-writeups/0xwriteups/picoctf/pwn/heap-0.md)
       * [format string 0](ctfs-writeups/0xwriteups/picoctf/pwn/format-string-0.md)
+  * [Intigriti](ctfs-writeups/0xwriteups/intigriti/README.md)
+    * [HackDonalds](ctfs-writeups/0xwriteups/intigriti/hackdonalds.md)
   * [2021](ctfs-writeups/0xwriteups/2021/README.md)
     * [Spark CTF - Dec](ctfs-writeups/0xwriteups/2021/spark-ctf-dec.md)
   * [2022](ctfs-writeups/0xwriteups/2022/README.md)

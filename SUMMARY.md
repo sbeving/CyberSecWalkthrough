@@ -264,6 +264,7 @@
         * [Who?](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/digital-forensics/who.md)
       * [Reverse Engineeering](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/README.md)
         * [reverse py bruteforce](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/reverse-py-bruteforce.md)
+    * [Securinets Fianls 2k25](ctfs-writeups/0xwriteups/2025/securinets-fianls-2k25.md)
 
 ## 💡 HELPFUL TOOLS
 

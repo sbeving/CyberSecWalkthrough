@@ -265,6 +265,15 @@
       * [Reverse Engineeering](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/README.md)
         * [reverse py bruteforce](ctfs-writeups/0xwriteups/2025/minictf-spark-isetcom/reverse-engineeering/reverse-py-bruteforce.md)
     * [Securinets Fianls 2k25](ctfs-writeups/0xwriteups/2025/securinets-fianls-2k25.md)
+    * [PatriotCTF](ctfs-writeups/0xwriteups/2025/patriotctf/README.md)
+      * [REV](ctfs-writeups/0xwriteups/2025/patriotctf/rev/README.md)
+        * [Space Pirates](ctfs-writeups/0xwriteups/2025/patriotctf/rev/space-pirates.md)
+        * [Space Pirates II](ctfs-writeups/0xwriteups/2025/patriotctf/rev/space-pirates-ii.md)
+        * [Space Pirates III](ctfs-writeups/0xwriteups/2025/patriotctf/rev/space-pirates-iii.md)
+        * [Are You Pylingual?](ctfs-writeups/0xwriteups/2025/patriotctf/rev/are-you-pylingual.md)
+        * [ReadMyNote](ctfs-writeups/0xwriteups/2025/patriotctf/rev/readmynote.md)
+        * [Entropy Discord](ctfs-writeups/0xwriteups/2025/patriotctf/rev/entropy-discord.md)
+        * [Vorpal Masters](ctfs-writeups/0xwriteups/2025/patriotctf/rev/vorpal-masters.md)
 
 ## 💡 HELPFUL TOOLS
 

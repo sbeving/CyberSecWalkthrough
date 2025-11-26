@@ -274,6 +274,10 @@
         * [ReadMyNote](ctfs-writeups/0xwriteups/2025/patriotctf/rev/readmynote.md)
         * [Entropy Discord](ctfs-writeups/0xwriteups/2025/patriotctf/rev/entropy-discord.md)
         * [Vorpal Masters](ctfs-writeups/0xwriteups/2025/patriotctf/rev/vorpal-masters.md)
+      * [Web](ctfs-writeups/0xwriteups/2025/patriotctf/web/README.md)
+        * [Feedback Fallout](ctfs-writeups/0xwriteups/2025/patriotctf/web/feedback-fallout.md)
+      * [Crypto](ctfs-writeups/0xwriteups/2025/patriotctf/crypto/README.md)
+        * [Matrix Reconstruction](ctfs-writeups/0xwriteups/2025/patriotctf/crypto/matrix-reconstruction.md)
 
 ## 💡 HELPFUL TOOLS
 

@@ -278,7 +278,7 @@
         * [Feedback Fallout](ctfs-writeups/0xwriteups/2025/patriotctf/web/feedback-fallout.md)
       * [Crypto](ctfs-writeups/0xwriteups/2025/patriotctf/crypto/README.md)
         * [Matrix Reconstruction](ctfs-writeups/0xwriteups/2025/patriotctf/crypto/matrix-reconstruction.md)
-    * [Crackout 2.0](ctfs-writeups/0xwriteups/2025/crackout-2.0.md)
+    * [Cr4ckout 2.0](ctfs-writeups/0xwriteups/2025/cr4ckout-2.0.md)
 
 ## 💡 HELPFUL TOOLS
 

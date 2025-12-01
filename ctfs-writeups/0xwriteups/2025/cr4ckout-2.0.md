@@ -1,4 +1,8 @@
-# Crackout 2.0
+---
+icon: burger-cheese
+---
+
+# Cr4ckout 2.0
 
 ## Crackout 2.0 CTF 2025 - Writeups
 

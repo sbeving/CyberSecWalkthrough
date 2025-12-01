@@ -233,8 +233,7 @@ and the password is the strongPassword&#x20;
 ywrq4loihIWcRewq 
 ```
 
-Now it's time to bruteforce the otp and get the FLAG\
-
+Now it's time to bruteforce the otp and get the FLAG<br>
 
 <pre class="language-python"><code class="lang-python"><strong># /dahsboard
 </strong><strong>@app.route("/dashboard")

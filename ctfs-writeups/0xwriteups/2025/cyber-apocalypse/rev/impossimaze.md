@@ -1,7 +1,6 @@
 # Impossimaze
 
-\
-
+<br>
 
 ```
 __int64 __fastcall main(int a1, char **a2, char **a3)
@@ -119,7 +118,6 @@ __int64 __fastcall main(int a1, char **a2, char **a3)
 
 ## Resize window 2 37x13 to get the flag
 
-\
-
+<br>
 
 <figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

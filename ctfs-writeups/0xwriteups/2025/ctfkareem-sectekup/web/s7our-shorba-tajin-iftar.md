@@ -35,8 +35,7 @@ Let's list files , used payload \
 ### **Step 3:Displaying main.py File using os.popen(‘cat main.py’)**
 
 Knowing SSTI was achievable the next part was to find a payload to read the values. The step started by listing the files with the os.popen("ls") and then displaying the main.py content.\
-\
-
+<br>
 
 <figure><img src="../../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>cat main.py</p></figcaption></figure>
 

@@ -257,8 +257,7 @@ Free Resources
 * **OWASP Top 10**: Web vulnerability guide (https://owasp.org/www-project-top-ten/).
 * **Zagnox’s CPTS Cheatsheet**: Practical reference (https://github.com/zagnox/HTB-CPTS-Cheatsheet).
 
-\
-
+<br>
 
 #### Paid Resources
 
@@ -269,8 +268,7 @@ Free Resources
 * **Motasem Hamdan’s CPTS Study Notes**: 1252-page PDF guide (\~$30) (https://motasemhamdan.medium.com/).
 * **VulnLab**: AD-focused labs (\~$15/month).
 
-\
-
+<br>
 
 **Books**
 
@@ -278,8 +276,7 @@ Free Resources
 * _The Hacker Playbook 3_: Practical pentesting guide.
 * _Penetration Testing: A Hands-On Introduction to Hacking_ by Georgia Weidman.
 
-\
-
+<br>
 
 **Tools**
 

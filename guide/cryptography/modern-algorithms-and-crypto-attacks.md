@@ -107,8 +107,7 @@ icon: gamepad-modern
 #### 1️⃣ **HMAC Definition**
 
 \
-\text{HMAC}(K, m) = H\big((K ⊕ opad),‖,H((K ⊕ ipad),‖,m)\big)\
-
+\text{HMAC}(K, m) = H\big((K ⊕ opad),‖,H((K ⊕ ipad),‖,m)\big)<br>
 
 * Combines a key K and hash H for integrity.
 
